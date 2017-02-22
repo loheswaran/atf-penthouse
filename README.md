@@ -1,4 +1,4 @@
-# atf-penthouse
-Extract above the fold css using penthouse
+# ATF-Penthouse
+Extract above the fold css using penthouse node module
 # Command to run 
 node penthouse.js
